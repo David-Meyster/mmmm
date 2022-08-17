@@ -53,10 +53,10 @@
 
 		<div class="balance__align">
 			<a href="reg.html" class="balance" id="balance">
-				<? if(true): ?> 
-					<?= $bal?>
+				<? if(1 == 1): ?> 
+					<?= 123?>
 				<? else: ?>
-					
+					Войти
 				<? endif ?>
 			</a>
 		</div>
